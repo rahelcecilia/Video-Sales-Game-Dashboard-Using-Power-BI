@@ -31,5 +31,7 @@ df.to_excel("vgsales.xlsx") </pre>
 <li>Provided insights for the gaming industry to refine marketing strategies and product development.</li>
 
 <br>
-![image](https://github.com/user-attachments/assets/53b0b20f-ffab-49c5-a7fb-d10caee3d117)
+
+![image](https://github.com/user-attachments/assets/2b55fd9e-d48b-4062-9893-2ebbf262c50e)
+
 
