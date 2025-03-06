@@ -4,7 +4,18 @@ Analyzed Kaggle's Video Game Sales dataset to understand video game sales trends
 Dataset : https://www.kaggle.com/datasets/gregorut/videogamesales?resource=download
 
 ### Technologies Used:
-<li>Python (Pandas) – Data Cleaning, Handling Missing & Duplicate Values</li> 
+<li>Python (Pandas) – Data Cleaning, Handling Missing & Duplicate Values</li> <br>
+
+
+<pre>import pandas as pd 
+df = pd.read_csv('vgsales.csv') <br>
+<strong> # Missing Values</strong>
+df.isna().sum() <br>
+<strong> # Duplicate Values</strong>
+duplicate_rows = df[df.duplicated()]<br>
+<strong> #Export</strong>
+df.to_excel("vgsales.xlsx") </pre>
+
 <li>Power BI – DAX, Filter, Chart (Bar, Pie, Line)</li>
 
 ### Features and Analysis:
