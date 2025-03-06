@@ -29,3 +29,7 @@ df.to_excel("vgsales.xlsx") </pre>
 <li>Identified the most dominant genres and platforms across different regions.</li> 
 <li>Analyzed video game sales trends over time.</li> 
 <li>Provided insights for the gaming industry to refine marketing strategies and product development.</li>
+
+<br>
+![image](https://github.com/user-attachments/assets/53b0b20f-ffab-49c5-a7fb-d10caee3d117)
+
